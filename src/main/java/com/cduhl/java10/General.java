@@ -9,5 +9,6 @@ public class General {
 		System.out.println("Hello World!");
 		var foo = 123;
 		System.out.println(foo + foo);
+		System.out.println("Done!");
 	}
 }
